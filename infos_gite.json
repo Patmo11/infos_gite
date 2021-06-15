@@ -1,0 +1,87 @@
+{
+    "chambres" : 
+    [
+        {
+            "id" : "01",
+            "url" : "https://www.les-nouvelles-de-charlene.fr/wp-content/uploads/2014/10/Comment-d%C3%A9corer-la-chambre-d%E2%80%99un-jeune-couple2.jpg",
+            "format" : "2",
+            "nuit" : "35",
+            "info" : "Chambres pour 2 personnes"
+        },
+
+        {
+            "id" : "02",
+            "url" : "https://www.les-nouvelles-de-charlene.fr/wp-content/uploads/2014/10/Comment-d%C3%A9corer-la-chambre-d%E2%80%99un-jeune-couple2.jpg",
+            "format" : "2",
+            "nuit" : "35",
+            "info" : "Chambres pour 2 personnes"
+        },
+
+        {
+            "id" : "03",
+            "url" : "https://www.les-nouvelles-de-charlene.fr/wp-content/uploads/2014/10/Comment-d%C3%A9corer-la-chambre-d%E2%80%99un-jeune-couple2.jpg",
+            "format" : "2",
+            "nuit" : "35",
+            "info" : "Chambres pour 2 personnes"
+        },
+        
+        {
+            "id" : "04",
+            "url" : "https://www.les-nouvelles-de-charlene.fr/wp-content/uploads/2014/10/Comment-d%C3%A9corer-la-chambre-d%E2%80%99un-jeune-couple2.jpg",
+            "format" : "2",
+            "nuit" : "35",
+            "info" : "Chambres pour 2 personnes"
+        },
+
+        {
+            "id" : "05",
+            "url" : "https://www.les-nouvelles-de-charlene.fr/wp-content/uploads/2014/10/Comment-d%C3%A9corer-la-chambre-d%E2%80%99un-jeune-couple2.jpg",
+            "format" : "2",
+            "nuit" : "35",
+            "info" : "Chambres pour 2 personnes"
+        },
+
+        {
+            "id" : "06",
+            "url" : "https://www.ailette.fr/fr/img/slideshow_xxlarge/316_chambre-famille-hotel-piscine-reims.jpg.jpeg",
+            "format" : "familiales",
+            "nuit" : "55",
+            "info" : "Chambres familiales avec 1 lit double, 1 lit supersosé et 1 lit simple "
+        },
+
+        {
+            "id" : "07",
+            "url" : "https://www.ailette.fr/fr/img/slideshow_xxlarge/316_chambre-famille-hotel-piscine-reims.jpg.jpeg",
+            "format" : "familiales",
+            "nuit" : "55",
+            "info" : "Chambres familiales avec 1 lit double, 1 lit supersosé et 1 lit simple "
+        },
+
+        {
+            "id" : "08",
+            "url" : "https://www.ailette.fr/fr/img/slideshow_xxlarge/316_chambre-famille-hotel-piscine-reims.jpg.jpeg",
+            "format" : "familiales",
+            "nuit" : "55",
+            "info" : "Chambres familiales avec 1 lit double, 1 lit supersosé et 1 lit simple "
+        }
+    ],
+
+    "apparts" :
+    [
+        {
+            "id" : "09",
+            "url" : "https://www.chalet-prestige.com/_files/_media/15/Chalet%20Sirius/Chalet-sirius-serre-chevalier1.jpg",
+            "format" : "familiales",
+            "nuit" : "110",
+            "info" : "Appartements avec 2 lits doubles, 2 lits supersosés, 2 lits simples et une cuisine"
+        },
+
+        {
+            "id" : "10",
+            "url" : "https://www.chalet-prestige.com/_files/_media/15/Chalet%20Sirius/Chalet-sirius-serre-chevalier1.jpg",
+            "format" : "familiales",
+            "nuit" : "110",
+            "info" : "Appartements avec 2 lits doubles, 2 lits supersosés, 2 lits simples et une cuisine"
+        }
+    ]
+}
